@@ -1,16 +1,23 @@
-## Hi there 👋
+### This statement is false.
+## This statement is much falser.
+# This statement is most falsest.
 
 <!--
-**IEFBR14S0C4/IEFBR14S0C4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+this text lives inside a comment
 -->
+<!-- no intervening spaces before bold/italic markers belw. Huh? -->
+<!--slash alone won't do it. This DOESN'T work: line\ breaks\ look\ like\ this\ --> 
+\
+separate lines of text\
+must be actually coded on\
+separate lines in the source code??\
+yikes\
+that's scary.\
+so it interprets a given line of markup based on what's on the next line????\
+If the slashed line is followed by a blank line, it prints the slash??---->>\
+
+**bold**  __or bold?__\
+**hit control B you've got bold aotomatically**\
+*italic*  _or italic?_\
+_hit control I you've got italics automatically_
+
